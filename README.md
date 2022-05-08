@@ -1,2 +1,0 @@
-# calculadora
-Created with CodeSandbox
